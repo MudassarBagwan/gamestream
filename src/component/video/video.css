@@ -1,0 +1,22 @@
+.video{
+display: grid;
+justify-content: center;
+align-content: center;
+margin-left: 400px;
+
+}
+h2{
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+    align-content: center;
+    margin-right: 700px;
+    margin-bottom: 300px;
+}
+
+.navbar1{
+
+    margin-right: 430px ;
+    
+}
