@@ -52,8 +52,8 @@ function Video(){
           id="ytplayer"
           title={gamename}
           type="text/html"
-          height="800"
-          width="1500"
+          height="720"
+          width="1080"
           src={`https://www.youtube.com/embed/${videoid}?autoplay=0&origin=http://example.com&controls=1&rel=1`}
         
     ></iframe>
